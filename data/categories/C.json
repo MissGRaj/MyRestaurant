@@ -1,0 +1,22 @@
+{"menu_items":[{"id":401,"short_name":"C1","name":"Chicken Sandwich","description": 
+"sliced chicken served with green peppers, onion and brown bread.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":402,"short_name":"C2","name":"KIng Burger","description": 
+"sliced chicken served with green peppers, onion and brown bread.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":403,"short_name":"C3","name":"Puttu and Kadala","description": 
+"Soft steamed puttu served with spicy and delicious kadala curry.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":404,"short_name":"C4","name":"Idli and Dosa","description": 
+"Soft steamed Idli and Dosa served with sambar and coconut chutney.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":405,"short_name":"C5","name":"Prawns noodles","description": 
+"prawns sauted with green peppers, onion and celery served with noodles.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true}],
+
+"category": {"id": 4, "short_name":"C", "name":"Breakfast"}}

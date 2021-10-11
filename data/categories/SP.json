@@ -1,0 +1,22 @@
+{"menu_items":[{"id":801,"short_name":"SP1","name":"Chicken Pizza","description":
+	"Loaded with double pepper barbecue chicken, peri-peri chicken & grilled chicken rashers",
+"price_small":null,"price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":802,"short_name":"SP2","name":"Veg Extravaganza",
+"description":"Black olives, capsicum, onion, grilled mushroom, corn, tomato & extra cheese",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+ "image_present":true},
+{"id":803,"short_name":"SP3","name":"Farmhouse",
+"description":"Delightful combination of onion, capsicum, tomato & grilled mushroom",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+ "image_present":true},
+{"id":804,"short_name":"SP4","name":"Chicken Mysoori",
+"description":"Grilled chicken soaked in special masala served with Mysoori pulav.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+ "image_present":true},
+ {"id":805,"short_name":"SP5","name":"Bull's Eye Egg Gravy",
+"description":"special masala curry topped with Bull's Eye Egg.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+ "image_present":true}],
+
+"category":{"id": 8, "short_name":"SP", "name":"Chef's Recommendations"}}

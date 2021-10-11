@@ -1,0 +1,26 @@
+{"menu_items":[{"id":601,"short_name":"E1","name":"Gulab Jamun","description": 
+"sweet and spongy Gulab Jamun dessert",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":602,"short_name":"E2","name":"Red Velvet Cupcake","description": 
+"Cupcake Red Velvet, topped with white cream, for extra Cupcakes $2",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":603,"short_name":"E3","name":"Cupcake Creamy","description": 
+"Cupcake topped with white cream, for extra Cupcakes $2",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":604,"short_name":"E4","name":"Creamy Cookies","description": 
+"baked Cookies topped with white cream, dry fruits and nuts, for extra Cookie $1",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":605,"short_name":"E5","name":"Chocolate Cake","description": 
+"Layers of German chocolate cake are soaked in rum to moist perfection, with Chocolate fillings and Chocolate icing, Chocolate toppings.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":606,"short_name":"E6","name":"Special Cake","description": 
+"Layers of Strawberry cake are soaked in rum to moist perfection, this cake combines coffee liquer and espresso cream complimented with a pure apricot jam",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true}],
+
+"category":{"id": 6, "short_name":"E", "name":"Desserts"}}

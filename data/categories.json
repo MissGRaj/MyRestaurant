@@ -1,0 +1,8 @@
+[{"id": 1, "short_name":"L", "name":"Lunch", "url":"data/categories/L.json"},
+{"id": 2, "short_name":"A", "name":"Noodles", "url":"data/categories/A.json"},
+{"id": 3, "short_name":"B", "name":"Beef", "url":"data/categories/B.json"},
+{"id": 4, "short_name":"C", "name":"Breakfast", "url":"data/categories/C.json"},
+{"id": 5, "short_name":"D", "name":"Dinner", "url":"data/categories/D.json"},
+{"id": 6, "short_name":"E", "name":"Desserts", "url":"data/categories/E.json"},
+{"id": 7, "short_name":"F", "name":"Soup", "url":"data/categories/F.json"},
+{"id": 8, "short_name":"SP", "name":"Chef's Recommendations", "url":"data/categories/SP.json"}]

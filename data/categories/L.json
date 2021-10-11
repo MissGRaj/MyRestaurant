@@ -1,0 +1,22 @@
+{"menu_items":[{"id":101,"short_name":"L1","name":"Chicken Biriyani","description": 
+	"Thalassery chicken dum biriyani with some green pepper, onion, and pineapples", 
+"price_small":null,"price_large":11.95,"small_portion_name":null,"large_portion_name":null, 
+"image_present":true},
+{"id":102,"short_name":"L2","name":"Prawns Masala","description": 
+"deep-fried prawns with masala, $1 more for prawns.","price_small":null, 
+"price_large":11.95,"small_portion_name":null,"large_portion_name":null,"image_present":true},
+{"id":103,"short_name":"L3","name":"Pav Bhaji","description": 
+"pan-fried pavs with bhaji masala.","price_small":null, 
+"price_large":11.95,"small_portion_name":null,"large_portion_name":null,"image_present":true},
+{"id":104,"short_name":"L4","name":"Tomato Rice","description": 
+"Tomato rice served with salad, pickle and pappad.","price_small":null, 
+"price_large":11.95,"small_portion_name":null,"large_portion_name":null,"image_present":true},
+{"id":105,"short_name":"L5","name":"Prawns Creamy Gravy Masala","description": 
+"Fresh prawns prepared in Creamy Gravy Masala served with broccoli, mushrooms and baby corn.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":106,"short_name":"L6","name":"Fried Rice","description": 
+"Rice fried and sauted in sauces with with broccoli, mushrooms and baby corn.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true}],
+"category": {"id": 1, "short_name":"L", "name":"Lunch"}}

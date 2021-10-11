@@ -1,0 +1,23 @@
+{"menu_items":[{"id":701,"short_name":"F1","name":"Egg D Soup","description":"chicken broth with egg Drop",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":702,"short_name":"F2","name":"Hot N Sour Soup","description":
+	"tofu, chicken, mushroom, bamboo shoot, and egg",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":703,"short_name":"F3","name":"Momo Soup","description":
+	"clear chicken broth with mixed vegetables Momos (carrots, cabbage, baby corn, mushroom, snow peas)",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":704,"short_name":"F4","name":"Garden Vegetable Soup","description":
+	"clear chicken broth with mixed vegetables (carrots, cabbage, baby corn, mushroom, snow peas)",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":705,"short_name":"F5","name":"Prawns Soup",
+"description":"Prawns broth with carrots, mushrooms, snow peas, and broccoli","price_small":null, 
+"price_large":11.95,"small_portion_name":null,"large_portion_name":null, "image_present":true},
+{"id":706,"short_name":"F6","name":"Chicken Soup",
+"description":"clear broth and lo mein noodles or white rice, chicken pieces","price_small":null, 
+"price_large":11.95,"small_portion_name":null,"large_portion_name":null, "image_present":true}],
+
+"category":{"id": 7, "short_name":"F", "name":"Soup"}}

@@ -1,0 +1,30 @@
+{"menu_items":[{"id":501,"short_name":"D1","name":"Grilled Chicken","description": 
+"Grilled white meat chicken sauteed with carrots, celery, and bean sprouts",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":502,"short_name":"D2","name":"vegetables Curry","description": 
+"Mixed vegetables cooked with herbs and flavoured masala.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":503,"short_name":"D3","name":"Kizhi Porotha","description": 
+"Porotha served with beef masala wrapped in banana leaf.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":504,"short_name":"D4","name":"Chicken Garlic","description": 
+"chicken sauteed with string beans and garlic",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":505,"short_name":"D5","name":"Chicken Fried Rice","description": 
+"chicken sauteed with rice, string beans, garlic in brown sauce",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":506,"short_name":"D6","name":"Chicken Broccoli","description": 
+"chicken sauteed with broccoli, string beans and garlic, served with steamed rice.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":507,"short_name":"D7","name":"Kung Pao Chicken","description": 
+"Dark meat chicken sauteed with potato and celery, in a spicy Szechuan sauce",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true}],
+
+"category":{"id": 5, "short_name":"D", "name":"Dinner"}}

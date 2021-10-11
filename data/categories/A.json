@@ -1,0 +1,21 @@
+
+{"menu_items":[{"id":201,"short_name":"A1","name":"Saucy Noodles","description": 
+"Noodles dipped in sauces with with broccoli, mushrooms and baby corn.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":202,"short_name":"A2","name":"Chow Mein","description":
+"white meat chicken OR Prawns OR vegetables, sauteed with bean sprouts, onions, and celery in white sauce",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":203,"short_name":"A3","name":"White Sauce Noodles","description": 
+"Noodles sauteed with bean sprouts, onions, and celery in white sauce.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":204,"short_name":"A4","name":"Lo Mein Pasta","description": 
+"vegetables sauteed with onions, and bean sprouts and soft lo mein Pasta",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":205,"short_name":"A5","name":"Pan-Fried Noodles","description": 
+"Pan fried vegetables sauteed with onions, and bean sprouts and soft noodles.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true}],"category": {"short_name":"A", "name":"Noodles"}}

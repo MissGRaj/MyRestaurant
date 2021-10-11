@@ -1,0 +1,30 @@
+{"menu_items":[{"id":301,"short_name":"B1","name":"Grilled Beef","description": 
+"Grilled beef sauteed with onions, capsicum, leaf and celery",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":302,"short_name":"B2","name":"Beef Pot Curry","description": 
+"Beef cooked in pots with special flavoured masala",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":303,"short_name":"B3","name":"Hunan Beef","description": 
+"beef sauteed with broccoli, mushrooms, and carrots in spicy Hunan Sauce",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":304,"short_name":"B4","name":"Beef with Mixed vegetables","description": 
+"sliced beef sauteed with broccoli, carrots, snow peas, mushrooms and baby corns.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":305,"short_name":"B5","name":"Beef Roasted","description": 
+"sliced beef sauteed and pan roasted",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":306,"short_name":"B6","name":"Szechuan Beef","description": 
+"beef sauteed with carrots and celery, in a spicy Szechuan sauce",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true},
+{"id":307,"short_name":"B7","name":"Beef with Green Pepper","description": 
+"sliced beef sauteed with green peppers and onions in brown sauce.",
+"price_small":null, "price_large":11.95,"small_portion_name":null,"large_portion_name":null,
+"image_present":true}], 
+
+"category":{"short_name":"B", "name":"Beef"}}
